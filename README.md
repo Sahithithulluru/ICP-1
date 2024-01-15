@@ -1,1 +1,4 @@
 # ICP-1
+Video Link: https://drive.google.com/file/d/1aJoaslxRmtJpTvRX_XLRUB1hlbT5KjT0/view?usp=sharing
+**SUMMARY**
+First I have checked If the given string length is greater than 2, if not it will be print an error message, If greater than 2, I used slicing to assign the substring of input string,leaving the first 2 characters. And to reverse the string also I used slicing.For the arithmetic operations part, I took the input from user and type casted to float; and then performed various arithmetic operations such as addition, Subtraction, Multiplication, Division.For the next question . I have taken input from user and used the built-in “replace “method in python to replace the word “python”, with the word “pythons”.For the last question I prompted the user to enter the score. after taking the input. I printed the appropriate grade using the elif keyword.!
